@@ -11,7 +11,7 @@
 
 ### 공식
 
-잘 정리됌 = https://docs.openjaus.com/2024.0/jaus/basics/jaus_system/
+잘 정리됌 = https://docs.openjaus.com/2024.0/jaus/basics/jaus_system/   (edge로 열기)
 
 위 링크 보고 난 후, https://www.sto.nato.int/publications/STO%20Educational%20Notes/STO-EN-SCI-271/EN-SCI-271-02.pdf 보면 좋음
 
