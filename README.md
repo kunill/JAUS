@@ -1,12 +1,7 @@
 # JAUS
 
-### JAUS표준 기반의 모바일 로봇 원격제어 시스템 구현에 관한 연구 (2008)
-
-https://www.dbpia.co.kr/pdf/cpViewer -> 개요만 확인
 
 ### 자율주행차량을 위한 개방형 아키텍처 기반의 통합 SW 플랫폼 및 복합지도 기반의 자율주행시스템 개발
-
-https://www.dbpia.co.kr/pdf/cpViewer  -> 개요만 확인
 
 위 내용 CHAPTER2 중
 하지만 AUTOSAR 는 ADAS 와 같이 운전자를 보조하거나, 편의를 위한 서비스관점에서의 지능형자동차에 더 초점이 맞추어져 있으며, 다수의 지능형자동차뿐만 아니라 이종의 지능형시스템과의 연동에 대한 부분까지는 아직충분히 고려되고 있지 않다. 또한 제시하고 있는 방대한 규모의 표준 사양들을충족시킬 수 있는 소프트웨어 모듈 개발 및 통신 인터페이스 구성이 쉽지 않다는단점을 가지고 있다[106,113]. 그리고 표준사양을 만족하기 위해서 상용 BSW
@@ -14,7 +9,7 @@ https://www.dbpia.co.kr/pdf/cpViewer  -> 개요만 확인
 
 --- 
 
-### 공식 홈(?)
+### 공식
 
 잘 정리됌 = https://docs.openjaus.com/2024.0/jaus/basics/jaus_system/
 
@@ -23,6 +18,9 @@ https://www.dbpia.co.kr/pdf/cpViewer  -> 개요만 확인
 ### 그 외 자료
 
 https://archive.org/download/mipc-dsp_dla_mil/dsp.dla.mil_IEKX2LIRDTSKLYIOMB63KM2J7YE3RXWH.pdf
+
+https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=cac145554c6e8e1d3a20c5542da5ae40c475b3e6
+
 
 ---
 
