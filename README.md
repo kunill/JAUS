@@ -24,6 +24,10 @@ https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=cac145554c6e8e1d3
 
 ### 오픈소스
 
+OpenJAUS SDK  , JAUS Tool Set (JTS)  , JAUS++  3가지 오픈소스 존재하는데
+
+순서대로 지원 많음 , 보통, 필수기능만 지원
+
 https://active-ist.sourceforge.net/jaus++.php --> 이해하기에 괜찮은 듯
 
 
@@ -35,6 +39,7 @@ https://active-ist.sourceforge.net/jaus++.php --> 이해하기에 괜찮은 듯
 
 ### 정리
 
+JAUS는 무인시스템을 위해 설계되었기때문에, 다음과 같은 서비스가 제공되어지는 것 같음
 
 ![image](https://github.com/user-attachments/assets/611c6356-39a3-4d34-8c44-9a00c68951ca)
 
