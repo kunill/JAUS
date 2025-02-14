@@ -1,5 +1,3 @@
-# JAUS
-
 
 자율주행차량을 위한 개방형 아키텍처 기반의 통합 SW 플랫폼 및 복합지도 기반의 자율주행시스템 개발
 
@@ -24,6 +22,23 @@ https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=cac145554c6e8e1d3
 
 ---
 
+### 오픈소스
+
+https://active-ist.sourceforge.net/jaus++.php --> 이해하기에 괜찮은 듯
+
+
+
+
+
+---
+
+
 ### 정리
 
+
+![image](https://github.com/user-attachments/assets/611c6356-39a3-4d34-8c44-9a00c68951ca)
+
+서비스와 그에 맞는 메세지
+
+위 7가지가 CORE SERVICE임
 
