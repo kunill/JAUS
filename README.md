@@ -80,3 +80,10 @@ JAUS는 하드 리얼타임 시스템을 보장하지 않지만, RTOS(Real-Time 
 
 JAUS는 하드 리얼타임을 보장하지 않음에도 불구하고 방산 분야에서 널리 사용되는 이유는 확장성과 상호 운용성 때문임.
 미군과 NATO 국가들은 다양한 무인 시스템을 운영해야 하며, 이를 하나의 네트워크로 통합하기 위해 JAUS를 적극 활용하고 있음.
+
+
+
+https://openjaus.com/wp-content/uploads/2017/06/1545-Robotic_Manipulation_and_Haptic_Feedback_via_High_Speed_Messaging_with_JAUS.pdf
+https://wiki.robojackets.org/images/1/13/Reference_Architecture%2C_Part_1%2C_V3-3.pdf
+https://openjaus.com/understanding-jaus/
+https://en.wikipedia.org/wiki/JAUS
