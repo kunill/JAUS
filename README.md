@@ -44,10 +44,12 @@ Mission Planning	자율주행, 임무 계획 및 고급 AI 알고리즘 적용
 (1) SOA(Service-Oriented Architecture) 기반 설계
 JAUS는 **서비스 기반 아키텍처(SOA)**를 따르며, 각 기능이 독립적인 서비스로 구성됨
 예제: 센서 데이터를 요청하면 JAUS 표준 메시지를 통해 필요한 정보만 전달됨
+
 (2) 메시지 기반 비동기 통신 (Message-based Communication)
 TCP/IP, RS232, CAN 등 다양한 네트워크에서 사용 가능
 Request-Response & Publish-Subscribe 모델 지원
 MIL-STD-6016, STANAG 4586 같은 군용 데이터 표준과도 호환
+
 (3) 데이터 버스 설계 및 실시간 운영
 JAUS는 **RTOS(Real-Time Operating System)**에서 동작 가능
 UAV, UGV와 같은 임무 수행 중 실시간성을 유지하는 구조적 장점
@@ -73,13 +75,7 @@ JAUS는 하드 리얼타임 시스템을 보장하지 않지만, RTOS(Real-Time 
 5. 비용 절감 및 개발 효율성 향상
 신규 무인 시스템을 개발할 때 맞춤형 프로토콜을 설계할 필요 없이 JAUS 표준을 활용하여 개발 시간과 비용을 절감할 수 있음.
 군사 시스템은 장기 운영 및 유지보수가 필수적인데, JAUS의 표준화된 구조 덕분에 유지보수와 업그레이드가 용이함.
-6. 다른 군사 아키텍처 대비 장점
-비교 항목	JAUS	STANAG 4586	DDS (Data Distribution Service)
-목적	무인 시스템 간 상호 운용성	UAV 데이터 링크 표준	분산 네트워크 실시간 데이터 공유
-실시간성	소프트 리얼타임 지원	하드 리얼타임 보장	하드 리얼타임 지원
-확장성	높음	제한적 (UAV 중심)	높음
-표준화	SAE AS5684A	NATO STANAG	OMG DDS
-적용 분야	무인 지상/공중/해상 플랫폼	주로 UAV 및 ISR 시스템	일반 산업 및 방산 분야 분산 시스템
+
 
 
 JAUS는 하드 리얼타임을 보장하지 않음에도 불구하고 방산 분야에서 널리 사용되는 이유는 확장성과 상호 운용성 때문임.
